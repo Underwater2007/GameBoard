@@ -1,0 +1,10 @@
+D:\CompSci30s\GameBoard\GameBoard\bin\Debug\GameBoard.exe.config
+D:\CompSci30s\GameBoard\GameBoard\bin\Debug\GameBoard.exe
+D:\CompSci30s\GameBoard\GameBoard\bin\Debug\GameBoard.pdb
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.GameBoard.resources
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.Properties.Resources.resources
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.csproj.GenerateResource.cache
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.csproj.CoreCompileInputs.cache
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.exe
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.pdb
+D:\CompSci30s\GameBoard\GameBoard\obj\Debug\GameBoard.csproj.AssemblyReference.cache
