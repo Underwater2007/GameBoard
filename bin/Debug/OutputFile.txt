@@ -1,0 +1,16 @@
+player landed on block 0  28 times
+player landed on block 1  10 times
+player landed on block 2  13 times
+player landed on block 3  13 times
+player landed on block 4  8 times
+player landed on block 5  5 times
+player landed on block 6  19 times
+player landed on block 7  10 times
+player landed on block 8  5 times
+player landed on block 9  4 times
+player landed on block 10  13 times
+player landed on block 11  8 times
+player landed on block 12  6 times
+player landed on block 13  4 times
+player landed on block 14  1 times
+player landed on block 15  3 times
